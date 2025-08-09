@@ -15,4 +15,4 @@ UI/UX : PURELY DESIGNED BY ME
 
 
 
-YOU CAN ACCESS THE APK DIRECT FORM THIS DIRECTORY FILE NAME "apk_debug", initial project commit!!
+YOU CAN ACCESS THE APK DIRECT FORM THIS DIRECTORY FILE NAME "apk-debug.apk", initial project commit!!
