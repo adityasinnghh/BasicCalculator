@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center"
+    android:background="#FFFFFF">
+
+    <!-- Display Screen -->
+
+    <!-- Row 1 -->
+
+    <TextView
+        android:id="@+id/tvInput"
+        android:layout_width="match_parent"
+        android:layout_height="419dp"
+        android:background="#E3F2FD"
+        android:gravity="end|center_vertical"
+        android:padding="10dp"
+        android:text="0"
+        android:textColor="#000000"
+        android:textSize="32sp" />
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:alignmentMode="alignMargins"
+        android:columnCount="4"
+        android:rowCount="5"
+        android:useDefaultMargins="true">
+
+        <!-- Buttons -->
+        <Button
+            android:id="@+id/btnOpen"
+            style="@style/CalcButton"
+            android:text="(" />
+
+        <Button
+            android:id="@+id/btnClose"
+            style="@style/CalcButton"
+            android:text=")" />
+
+        <Button
+            android:id="@+id/btnClear"
+            style="@style/CalcButton"
+            android:text="C" />
+
+        <Button
+            android:id="@+id/btnBack"
+            style="@style/CalcButton"
+            android:text="⌫" />
+
+        <Button
+            android:id="@+id/btn7"
+            style="@style/CalcButton"
+            android:text="7" />
+
+        <Button
+            android:id="@+id/btn8"
+            style="@style/CalcButton"
+            android:text="8" />
+
+        <Button
+            android:id="@+id/btn9"
+            style="@style/CalcButton"
+            android:text="9" />
+
+        <Button
+            android:id="@+id/btnDivide"
+            style="@style/CalcButton"
+            android:text="÷" />
+
+        <Button
+            android:id="@+id/btn4"
+            style="@style/CalcButton"
+            android:text="4" />
+
+        <Button
+            android:id="@+id/btn5"
+            style="@style/CalcButton"
+            android:text="5" />
+
+        <Button
+            android:id="@+id/btn6"
+            style="@style/CalcButton"
+            android:text="6" />
+
+        <Button
+            android:id="@+id/btnMultiply"
+            style="@style/CalcButton"
+            android:text="×" />
+
+        <Button
+            android:id="@+id/btn1"
+            style="@style/CalcButton"
+            android:text="1" />
+
+        <Button
+            android:id="@+id/btn2"
+            style="@style/CalcButton"
+            android:text="2" />
+
+        <Button
+            android:id="@+id/btn3"
+            style="@style/CalcButton"
+            android:text="3" />
+
+        <Button
+            android:id="@+id/btnMinus"
+            style="@style/CalcButton"
+            android:text="−" />
+
+        <Button
+            android:id="@+id/btn0"
+            style="@style/CalcButton"
+            android:text="0" />
+
+        <Button
+            android:id="@+id/btnDot"
+            style="@style/CalcButton"
+            android:text="." />
+
+        <Button
+            android:id="@+id/btnEqual"
+            style="@style/CalcButton"
+            android:background="#1565C0"
+            android:text="="
+            android:textColor="#FFFFFF" />
+
+        <Button
+            android:id="@+id/btnPlus"
+            style="@style/CalcButton"
+            android:text="+" />
+    </GridLayout>
+</LinearLayout>
