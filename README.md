@@ -15,7 +15,7 @@ A simple and functional Android calculator app designed and developed from scrat
 ## 🛠️ Tech Stack
 - **Platform:** Android Studio      
 - **Language:** Kotlin   
-
+ 
 ---  
 
 ## 📥 Download APK
