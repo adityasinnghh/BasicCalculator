@@ -9,7 +9,7 @@ A simple and functional Android calculator app designed and developed from scrat
 - Minimal, user-friendly interface
 - Fully custom **UI/UX** designed by me
 
----
+--- 
 
 ## 🛠️ Tech Stack
 - **Platform:** Android Studio  
