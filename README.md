@@ -4,7 +4,7 @@
 A simple and functional Android calculator app designed and developed from scratch.  
 
 ---
-
+ 
 ## 📱 Features
 - Perform basic arithmetic operations
 - Minimal, user-friendly interface
