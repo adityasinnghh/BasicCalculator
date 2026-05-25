@@ -1,4 +1,4 @@
-                                                 
+                                                  
 # 🧮 Basic Calculator
 
 A simple and functional Android calculator app designed and developed from scratch.  
